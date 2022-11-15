@@ -10,7 +10,7 @@ pip install numpy
 
 Start tasks:
 
-python Task_n.py
+python Basic_knowledge/Task_n.py
 
 (where n - 1,2,3,4,5, any of this)
 
@@ -19,4 +19,4 @@ python Task_n.py
 Extra task:
 
 
-python ExtraTask_1.py
+python Basic_knowledge/ExtraTask_1.py
