@@ -1,1 +1,0 @@
-# PetroRudyi_KA03
