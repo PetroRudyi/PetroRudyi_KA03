@@ -1,0 +1,3 @@
+ACCESS_TOKEN = 'sl.BWPZwve3_Cp9DBy3R6IakSV4RDC8JLYojO4k5nhV_vHqocrwkucuIRIesJaC_5R5_wfvrPWnfaVyBcDuwhRR8jda1TfKn_ahQ1q8bJ0-B7mTf--cUpWOUHi587eRvsvQKTYNorc'
+FILE_TO_UPLOAD = 'My_photo.jpg'
+RELATIVE_PATH_TO_FILE = f'resources/{FILE_TO_UPLOAD}'
